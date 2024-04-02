@@ -11,7 +11,7 @@ public class Main {
 		for (int i = 0; i <= 16; i++) {
 			System.out.println("You -> " + str);
 		}
-		System.out.println("Hello Tashkent");
+		System.out.println("Hello UZB");
 		for (int i = 0; i < 100; i++) {
 			System.out.print(i+" ");
 		}
