@@ -8,7 +8,9 @@ public class Main {
 		System.out.print("Enter your name: ");
 		String str = scanner.nextLine();
 		
-		System.out.println("Your name -> " + str);
+		for (int i = 0; i <= 16; i++) {
+			System.out.println("Your name -> " + str);
+		}
 		
 	}
 }
