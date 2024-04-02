@@ -11,7 +11,10 @@ public class Main {
 		for (int i = 0; i <= 16; i++) {
 			System.out.println("You -> " + str);
 		}
-		System.out.println("sdfwfwwf");
+		System.out.println("Hello Tashkent");
+		for (int i = 0; i < 100; i++) {
+			System.out.print(i+" ");
+		}
 		
 	}
 }
