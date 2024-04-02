@@ -9,8 +9,9 @@ public class Main {
 		String str = scanner.nextLine();
 		
 		for (int i = 0; i <= 16; i++) {
-			System.out.println("Your name -> " + str);
+			System.out.println("You -> " + str);
 		}
+		System.out.println("sdfwfwwf");
 		
 	}
 }
